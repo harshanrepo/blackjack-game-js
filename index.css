@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&family=Poppins:wght@300;400;500;600&display=swap");
+body {
+  background-color: #026e34;
+  text-align: center;
+  height: 90vh;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+h1 {
+  color: goldenrod;
+  font-size: 62px;
+}
+#message-el{
+  font-style: italic;
+}
+p {
+  margin-top: 10px;
+  color: white;
+  font-size: 32px;
+}
+button {
+  margin: 8px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bolder;
+  background-color: goldenrod;
+  color: #026e34;
+  width: 220px;
+  border: none;
+  border-radius: 2px;
+  padding: 4px 8px;
+  font-size: 30px;
+}
+#player-el{
+  margin-top: 20px;
+  font-size: 26px;
+}
