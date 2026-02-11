@@ -14,7 +14,7 @@ A simple and fun Blackjack card game built using vanilla HTML, CSS, and JavaScri
 - JavaScript
 
 ## 🔗 Live Demo
-
+https://harshanrepo.github.io/blackjack-game-js/
 
 ## 📂 How to Run
 1. Download or clone the repository
